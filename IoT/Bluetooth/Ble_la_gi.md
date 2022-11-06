@@ -49,3 +49,6 @@ Mình sẽ mô tả Stack của BLE thông qua hình bên dưới (Chữ mình h
 
 ## Kết
 - Mình biết đống chữ trên có vẻ hơi tởm nhưng mà mình đang cố gắng tìm cách để nó trở nên dễ hiểu hơn nữa cho đúng với tên gọi ```IoT for baby```, bởi đến mình cũng thấy đống chữ này đáng sợ mà 🌚🌚🌚.
+- Nếu các bạn thấy những bài viết của mình có ích hãy ủng hộ mình bằng bất cứ cách nào có thể dù chỉ là một star cho [Prolearners Project](https://github.com/doctor-blue/prolearners-site) cũng đủ để mình thấy vui cả ngày rồi!
+
+    ```See u next time! Peace!!!```
